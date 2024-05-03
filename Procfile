@@ -1,1 +1,1 @@
-web: gunicorn django_porfolio.wsgi
+web: gunicorn django_portfolio.wsgi
