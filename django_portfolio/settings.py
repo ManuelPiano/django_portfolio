@@ -136,3 +136,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 ALLOWED_HOSTS = ['localhost','djangoportfolio-production-82a6.up.railway.app']
+
+CSRF_TRUSTED_ORIGINS = ['http://*','https://djangoportfolio-production-82a6.up.railway.app']
