@@ -128,3 +128,4 @@ MEDIA_URL = '/public/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+ALLOWED_HOSTS = ['localhost','djangoportfolio-production-82a6.up.railway.app/']
