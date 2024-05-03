@@ -1,0 +1,16 @@
+body {
+    background: #090909;
+}
+
+.profile-img {
+    width: 300px;
+    height: auto;
+}
+
+.bg-black {
+    background: #000;
+}
+.card-project:hover {
+    border: 1px solid #ffffff;
+    cursor: pointer;
+}
