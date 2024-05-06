@@ -1,6 +1,6 @@
 media
-
-**/__pycache__**
+.env
+__pycache__
 venv
 staticfiles
 db.sqlite3
